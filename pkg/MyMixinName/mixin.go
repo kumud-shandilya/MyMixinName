@@ -1,4 +1,4 @@
-package skeletor
+package MyMixinName
 
 import (
 	"get.porter.sh/porter/pkg/runtime"

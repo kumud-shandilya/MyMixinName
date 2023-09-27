@@ -1,5 +1,5 @@
 install:
-  - skeletor:
+  - MyMixinName:
       description: "Invalid Input Test Case"
       args:
       - yarrrr

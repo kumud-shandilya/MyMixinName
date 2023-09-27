@@ -1,4 +1,4 @@
-module github.com/getporter/skeletor
+module github.com/getporter/MyMixinName
 
 go 1.19
 
