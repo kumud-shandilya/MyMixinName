@@ -13,7 +13,7 @@ func (m *Mixin) PrintVersion(opts version.Options) error {
 		VersionInfo: pkgmgmt.VersionInfo{
 			Version: pkg.Version,
 			Commit:  pkg.Commit,
-			Author:  "YOURNAME",
+			Author:  "Kumud Shandilya",
 		},
 	}
 	return version.PrintVersion(m.Context, opts, metadata)
